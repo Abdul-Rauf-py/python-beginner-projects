@@ -20,3 +20,5 @@ A collection of small Python programs I built while learning. Each project has i
 ## About me
 I'm Abdul Rauf , learning Python and building a project at a time. I write each program myself, test it by breaking it on purpose, and fix what I find.
 
+www.linkedin.com/in/abdul-rauf-6868a5441
+
