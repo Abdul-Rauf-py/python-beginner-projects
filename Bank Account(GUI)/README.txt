@@ -23,6 +23,7 @@ Accounts are kept in memory only, so they are lost when the window closes.
 - Connecting buttons to functions (callbacks)
 - Updating a label to show results instead of printing
 - Reusing a class from an earlier project
+- Validating input and showing error messages in the window
 
 ## Possible improvements
 - Show a message instead of failing when the amount isn't a number
