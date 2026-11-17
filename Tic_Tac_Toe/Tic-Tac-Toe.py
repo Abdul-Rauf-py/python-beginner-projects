@@ -46,7 +46,7 @@ def on_click(square):
         if button["text"] != "":
             filled += 1
     if filled == 9:
-        output_label.config(text="It's a draw!")
+        output_label.config(text="It's a draw!" ,  font = ('Arial' , 14))
         return
     
     if current_player == "X":
