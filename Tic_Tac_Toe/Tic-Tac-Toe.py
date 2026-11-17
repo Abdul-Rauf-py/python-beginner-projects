@@ -60,13 +60,7 @@ def on_reset_game():
         button.config(text="" , state = "normal" , bg = "white" )
     output_label.config(text="")
     current_player = "X"
-
-# for i in range(1,10):
-#     row = (i - 1) // 3
-#     column = (i - 1) % 3
-#     button = tk.Button(root , text = "" , width = 16 , height = 6 , command = lambda : on_click(i))
-#     button.grid(row = row , column = column)
-
+    
 
 button1 = tk.Button(root , text = "" , width = 16 , height = 6 , bg = 'white' , command = lambda : on_click(0))
 button1.grid(row = 0 , column = 0)
