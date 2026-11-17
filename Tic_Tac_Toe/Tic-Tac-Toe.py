@@ -90,7 +90,7 @@ button9 = tk.Button(root , text = "" , width = 16 , height = 6 , bg = 'white' , 
 button9.grid(row = 2 , column = 2)
 buttons.append(button9)
 
-play_again=tk.Button(root , text="Reset Game." , command = on_reset_game )
+play_again=tk.Button(root , text="Reset Game" , command = on_reset_game )
 play_again.grid(row=4, column=0, columnspan=3)
 
 output_label=tk.Label(root , text="")
